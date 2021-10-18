@@ -1,0 +1,4 @@
+include wellcome/*.ttf
+include wellcome/T1.jpeg
+include README.md
+include result.png
