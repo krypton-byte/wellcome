@@ -3,12 +3,12 @@
 Special Request: <a href="">Albi</a>
 ## install library
 <ul>
-<li>Github</li>
+<li>Pypi</li>
 
 ```bash
 $ python3 -m pip install wellcome
 ```
-<li>Pypi</li>
+<li>Github</li>
 
 ```bash
 $ python3 -m pip install git+https://github.com/krypton-byte/wellcome
